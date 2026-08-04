@@ -156,3 +156,66 @@ Store Data      Build Pipeline    Optimize Pipeline
                     │
                     ▼
          Business Decisions
+
+                         DATA SOURCES
+-------------------------------------------------
+ Mobile App
+ Website
+ Database
+ IoT Sensors
+ CSV Files
+ APIs
+ Logs
+ ERP Systems
+ CRM Systems
+-------------------------------------------------
+                     │
+                     ▼
+
+            Data Ingestion Layer
+-------------------------------------------------
+ Azure Data Factory
+ Kafka
+ Event Hub
+ Azure Functions
+-------------------------------------------------
+                     │
+                     ▼
+
+              Data Storage Layer
+-------------------------------------------------
+ Azure Data Lake Storage Gen2
+ Blob Storage
+-------------------------------------------------
+                     │
+                     ▼
+
+          Data Processing Layer
+-------------------------------------------------
+ Databricks
+ Spark
+ PySpark
+ Synapse Spark
+-------------------------------------------------
+                     │
+                     ▼
+
+         Data Warehouse Layer
+-------------------------------------------------
+ Azure Synapse Analytics
+ SQL Warehouse
+-------------------------------------------------
+                     │
+                     ▼
+
+      Visualization & Analytics Layer
+-------------------------------------------------
+ Power BI
+ Tableau
+ Excel
+ Machine Learning
+-------------------------------------------------
+                     │
+                     ▼
+
+            Business Decisions
