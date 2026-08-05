@@ -463,4 +463,45 @@ Streaming = Process Now
 | Speed      | Milliseconds                  | Seconds/Minutes                    |
 | Database   | MySQL, SQL Server, PostgreSQL | Azure Synapse, Snowflake, Redshift |
 
-data
+# Data Engineering Workflow
+
+## Definition
+
+Data Engineering Workflow is the step-by-step process of collecting, processing, storing, validating, and delivering data.
+
+## Workflow
+
+Data Sources
+↓
+Data Collection
+↓
+Data Ingestion
+↓
+Data Storage
+↓
+Data Cleaning
+↓
+Data Transformation
+↓
+Data Processing
+↓
+Data Validation
+↓
+Data Serving
+↓
+Monitoring
+
+## Azure Services
+
+- Azure Data Factory
+- Azure Data Lake Storage Gen2
+- Azure Databricks
+- Azure Synapse Analytics
+- Power BI
+- Azure Monitor
+
+## Remember
+
+Workflow = Complete data journey.
+
+Pipeline = Part of the workflow.
