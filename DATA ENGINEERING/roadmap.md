@@ -32,3 +32,22 @@ Azure Data Engineer Journey
           ├── Module 15: Projects
           |
           └── Module 16: Placement Preparation
+
+          | Service | Priority | Why Learn It? |
+|---------|----------|---------------|
+| Azure Portal | ⭐⭐⭐⭐⭐ | Manage Azure resources |
+| Resource Groups | ⭐⭐⭐⭐⭐ | Organize resources |
+| Storage Account | ⭐⭐⭐⭐⭐ | Base storage service |
+| Azure Data Lake Gen2 | ⭐⭐⭐⭐⭐ | Store big data |
+| Azure Data Factory | ⭐⭐⭐⭐⭐ | Build ETL/ELT pipelines |
+| Azure Databricks | ⭐⭐⭐⭐⭐ | Process and transform data |
+| PySpark | ⭐⭐⭐⭐⭐ | Big data programming |
+| Azure Synapse | ⭐⭐⭐⭐⭐ | Data warehouse and analytics |
+| Azure SQL Database | ⭐⭐⭐⭐⭐ | Store structured data |
+| Microsoft Entra ID | ⭐⭐⭐⭐ | Identity and access |
+| Azure Monitor | ⭐⭐⭐⭐ | Monitor resources |
+| Key Vault | ⭐⭐⭐⭐ | Secure secrets |
+| Event Hubs | ⭐⭐⭐⭐ | Streaming data |
+| Power BI | ⭐⭐⭐⭐ | Reporting and dashboards |
+| Azure CLI | ⭐⭐⭐ | Automation |
+| ARM/Bicep | ⭐⭐⭐ | Infrastructure as Code |
