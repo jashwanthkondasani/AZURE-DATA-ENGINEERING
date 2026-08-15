@@ -5,7 +5,8 @@ Azure Data Engineer Journey
           |
           ├── Module 2: Cloud Computing Fundamentals(❤️)
           |
-          ├── Module 3: Azure Fundamentals
+          
+          ├── Module 3: Azure Fundamentals(❤️)
           |
           ├── Module 4: SQL Mastery for Data Engineers
           |
