@@ -1,25 +1,3 @@
-PHASE 1 — SQL FOUNDATION(❤️)
-        ↓
-PHASE 2 — QUERYING & FILTERING(❤️)
-        ↓
-PHASE 3 — JOINS
-        ↓
-PHASE 4 — AGGREGATIONS
-        ↓
-PHASE 5 — SUBQUERIES & CTEs
-        ↓
-PHASE 6 — WINDOW FUNCTIONS ⭐⭐⭐⭐⭐
-        ↓
-PHASE 7 — ADVANCED SQL
-        ↓
-PHASE 8 — DATA ENGINEERING SQL
-        ↓
-PHASE 9 — SQL OPTIMIZATION
-        ↓
-PHASE 10 — REAL PROJECT
-        ↓
-PHASE 11 — INTERVIEW + DSA-STYLE SQL
-
 SQL
 │
 ├── DATABASE
